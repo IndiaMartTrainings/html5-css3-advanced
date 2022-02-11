@@ -10,7 +10,7 @@ https://www.rapidtables.com/web/html/html-codes.html - html codes
 
 https://www.tutorialbrain.com/css_tutorial/css_font_family_list/ - font family
 
-https://getbootstrap.com/docs/5.1/getting-started/download/ - Bootstrap4
+https://getbootstrap.com/docs/5.1/getting-started/download/ - Bootstrap5
 
 https://www.bronco.co.uk/our-ideas/how-to-add-google-recaptcha-to-a-form-phphtml/ - Captcha
 

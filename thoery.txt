@@ -27,7 +27,7 @@ Some of the elements will have no content and no end tag
 <hr> - Horizontal line with no content and no end tag
 <br> - Line break which is an Empty element
 
-Only content inside the body section will be displayed
+Only content inside the body section will be displayed in the browser 
 
 Features of HTML
 ----------------
@@ -145,17 +145,20 @@ Required when you want to collect some data from the user.
 7. clickable button
 8. Submit and Reset button
 
-Block-level elements & Inline elements
+Block-level & Inline elements
 ---------------------------------------
-Block level element occupies the entire space of the parent
 
 Every element has default display value depending on what type it is 
 
 There are two display values : block and inline
 
+Block-level elements 
+---------------------
+
+Block level element occupies the entire space of the parent
+
 Always starts on new line and takes up the full width available 
 
-occupies entire space of the parent
 
 Inline elements
 ----------------
@@ -181,7 +184,7 @@ span - An inline element used to mark up a part of a text or part of a document
 Label - This is used when we have form or input elements
 
 div - is Always used as a container for other elements
-    - defines divison or section in HTMl document
+    - defines divison or section in HTML document
     - any sort of content can be put inside <div> tag
     - this is know an DIVISON tag
 
