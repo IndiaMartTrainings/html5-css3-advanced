@@ -5,3 +5,4 @@ Open VSCode from CMD/Powershell - Code .
 5. create copy of the code - alt +shift + down arrow mark 
 6. To generate Random Code - lorem10 ( number can vary)
 7. To Modify samiliar code at multiple places - use Ctrl + D
+8. Alt + Z - word wrap your text
