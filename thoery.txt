@@ -252,7 +252,7 @@ Elements with meaning
 Semantic 
 ---------
 <article> - specifies independent, self-contained content
-<aside> - defines some conteent aside from the content it is placed in
+<aside> - defines some content aside from the content it is placed in
 <details> - specifies additional details that the user can 
             open and close on demand
 <figure>
@@ -268,7 +268,7 @@ Semantic
 
 CSS3
 -----
-1. Bring Superios styling to HTML
+1. Bring Superior styling to HTML
 2. Multiple Device Compatibility
 3. Follows Global WebStandrads
 4. Easy maintainance 
